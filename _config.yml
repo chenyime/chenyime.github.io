@@ -1,17 +1,17 @@
 future: true
 permalink: /:title/
-url: http://chenyime.github.io
-name: chenyime
-author: chenyimei
-qq: 790299972
-email: sysuyimei@gmail.com
+url: http://pmlpml.github.io
+name: Pan Sir
+author: Sir Pan
+qq: yourqq
+email: yourmail@mail2.sysu.edu.cn
 
-duoshuo: chenyimei
+duoshuo: yourname
 beian: 
 cnzz: 
 weibo: 
-github: chenyime
-about: "这里是 陈亿枚 的个人博客，创建于 2018 年。"
+github: yourID
+about: "这里是 Your 的个人博客，创建于 20xx 年。"
 
 safe: true
 paginate: 20
